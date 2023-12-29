@@ -68,3 +68,7 @@ git rebase <branch>
 git revert <branch>
 
 //from this link: https://media.licdn.com/dms/image/D4E22AQFl7e5Du9qFxQ/feedshare-shrink_2048_1536/0/1702987836413?e=1706745600&v=beta&t=Mg84fw17r2Td8vuCYEZwEVWAC7J_X6E5D52VjwRneeI
+
+//react to run build then cancel
+npm run dev / npm run / npm start
+hold Ctrl + C to cancel out of running react build;
